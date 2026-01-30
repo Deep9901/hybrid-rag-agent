@@ -1,4 +1,4 @@
-# ybrid AI Agent: RAG, Web Search & LangGraph
+# Hybrid AI Agent: RAG, Web Search & LangGraph
 
 ![Hybrid AI Agent Thumbnail](assets/agentBot.png)
 
